@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.page-wrapper {
+  display: grid;
+  grid-template-columns: 25vw 1fr;
+  grid-auto-rows: minmax(10px, auto);
+}
+
+.nav-header {
+  display: flex;
+  justify-content: center;
+}
+
+.site-logo {
+  padding: 5%;
+  width: 35vw;
+}
+
+.side-nav {
+  background-color: black;
+  grid-column: 1;
+  height: 100vh;
+}
+
+.nav-wrapper {
+  height: 70vh;
+  float: right;
+  text-align: right;
+  margin-right: 5%;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 100% 0%;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: white;
+  font-family: "Avenir", Times, serif;
+}
+
+.main-page {
+  grid-column: 2 / 4;
+  height: 100vh;
+}

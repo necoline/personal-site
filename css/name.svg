@@ -1,0 +1,47 @@
+
+<svg width="189px" height="127px" viewBox="0 0 189 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.2%" y="-4.8%" width="107.9%" height="112.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1.5" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(-26.000000, -10.000000)">
+            <g id="Group-10" transform="translate(26.000000, 11.000000)">
+                <g id="Group-2">
+                    <text id="ecoline" font-family="Lucinda Handwriting, Apple Chancery" font-size="18" font-style="italic" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="61" y="49">ecoline</tspan>
+                    </text>
+                    <g id="Group-5" stroke="#FFFFFF">
+                        <path d="M47,23 C38.3806537,50.2248732 23.8157953,78.4202763 0,98" id="Path-7"></path>
+                        <path d="M47,24 C47.2844438,38.3917231 48.0340033,51.3039411 53,65" id="Path-8"></path>
+                        <path d="M53,64 C53.5843461,48.2541229 57.9712819,5.99906986 79,0" id="Path-9"></path>
+                    </g>
+                </g>
+                <g id="Group-4" filter="url(#filter-1)" transform="translate(30.000000, 0.000000)">
+                    <g id="Group-7">
+                        <g id="Group-6" stroke="#FFFFFF">
+                            <path d="M70.5885742,27.8140024 C90.6775226,24.5450097 103.943763,13.2926867 117.16123,0.00540865385" id="Path-13"></path>
+                            <g id="Group-3">
+                                <path d="M117.16123,0.170372596 C107.586113,35.9906766 78.5878654,91.3641385 38.4957031,111.631911 C33.9576022,113.926055 10.5642389,127.265226 1.24726562,125.183293 C0.637778281,125.0471 0.70234375,124.171875 0.429882812,123.666166" id="Path-14"></path>
+                                <path d="M122.964648,0.00540865385 C116.255046,19.4792668 109.545443,38.953125 102.83584,58.4269832" id="Path-15"></path>
+                                <path d="M95.1251953,38.4338942 C104.512988,38.3167067 113.900781,38.1995192 123.288574,38.0823317" id="Path-16"></path>
+                            </g>
+                        </g>
+                        <text id="ubner" font-family="Apple-Chancery, Apple Chancery" font-size="18" font-style="italic" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="114" y="50">ubner</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
