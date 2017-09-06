@@ -42,7 +42,76 @@ body {
   font-family: "Avenir", Times, serif;
 }
 
+.menu-item:hover {
+  color: #06C1F7;
+}
+
+.menu-item:active {
+  color: #06C1F7;
+}
+
 .main-page {
   grid-column: 2 / 4;
   height: 100vh;
+  padding-top: 5%;
+}
+
+.title {
+  font-family: "Avenir", Times, serif;
+  text-align: center;
+  font-weight: lighter;
+  color: black;
+}
+
+.content {
+  font-family: "Avenir", Times, serif;
+  color: black;
+  margin: 2% 25%;
+  text-align: justify;
+}
+
+.svg-wrapper {
+  height: 60px;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 320px;
+}
+/*LIST ANIMATION*/
+
+.shape {
+  fill: transparent;
+  stroke-dasharray: 70 540;
+  stroke-dashoffset: -380;
+  stroke-width: 5px;
+  stroke: #06C1F7;
+}
+
+.text {
+  color: #fff;
+  font-family: 'Roboto Condensed';
+  font-size: 22px;
+  letter-spacing: 8px;
+  line-height: 32px;
+  position: relative;
+  top: -48px;
+}
+
+@keyframes draw {
+  0% {
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 8px;
+  }
+  100% {
+    stroke-dasharray: 760;
+    stroke-dashoffset: 0;
+    stroke-width: 2px;
+  }
+}
+
+.svg-wrapper:hover .shape {
+  -webkit-animation: 0.5s draw linear forwards;
+  animation: 0.5s draw linear forwards;
 }
