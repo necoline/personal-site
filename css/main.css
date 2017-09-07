@@ -26,17 +26,24 @@ body {
   text-decoration: none;
 }
 
+.two-buttons-outline {
+  border: 2px solid black;
+}
+
 .outline {
   border: 2px solid black;
   width: 40%;
 }
 
 .two-buttons {
-  display: inline-block;
+  display: inline;
+  width: 250px;
+  margin-right: 10px;
 }
 
-.two-buttons-width {
-  min-width: 40%;
+.two-buttons-container {
+  display: inline-flex;
+  justify-content: center;
 }
 
 .page-wrapper {
@@ -89,13 +96,17 @@ body {
   color: #06C1F7;
 }
 
+/* main page */
+
 .main-page {
   grid-column: 2 / 4;
   height: 95vh;
   overflow-y: scroll;
 }
 
-/* main page */
+.main-body {
+  padding: 5% 15%;
+}
 
 .title {
   text-align: center;
@@ -105,14 +116,19 @@ body {
 
 .content {
   color: black;
-  margin: 2% 25%;
+  margin: 2% 10%;
   text-align: justify;
 }
 
 .header {
   font-weight: lighter;
+  font-size: 30px;
 }
 
-.project {
-  padding: 0% 20%;
+.bullet-point {
+  padding-right: 30px;
+}
+
+.paragraph {
+  margin-top: 0;
 }
