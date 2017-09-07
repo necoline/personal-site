@@ -8,6 +8,10 @@ body {
   font-family: "Avenir", Times, serif;
 }
 
+.a-tag {
+  text-decoration: none;
+}
+
 /*buttons*/
 .button {
   height: 45%;
@@ -18,12 +22,8 @@ body {
   margin: 0;
   background-color: white;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   color: black;
-}
-
-.button-link {
-  text-decoration: none;
 }
 
 .two-buttons-outline {
@@ -79,12 +79,11 @@ body {
 
 .nav-list {
   list-style-type: none;
-  margin: 100% 0%;
+  margin: 120% 0%;
   text-align: right;
 }
 
 .menu-item {
-  text-decoration: none;
   color: white;
 }
 
@@ -100,7 +99,7 @@ body {
 
 .main-page {
   grid-column: 2 / 4;
-  height: 95vh;
+  height: 99vh;
   overflow-y: scroll;
 }
 
@@ -123,6 +122,7 @@ body {
 .header {
   font-weight: lighter;
   font-size: 30px;
+  color: black;
 }
 
 .bullet-point {
@@ -131,4 +131,41 @@ body {
 
 .paragraph {
   margin-top: 0;
+}
+
+/* manifest */
+
+.card {
+  border-left: thin double black;
+  padding: 3%;
+  margin-bottom: 7%;
+}
+
+.company-container {
+  display: inline-flex;
+}
+
+.company-img {
+  display: inline;
+  width: 15px;
+}
+
+.company-text {
+  display: inline;
+  color: black;
+}
+
+.card-header {
+  margin: 0;
+  font-weight: lighter;
+  font-size: 20px;
+  color: black;
+}
+
+.card-header:hover {
+  color: #06C1F7;
+}
+
+.card-content {
+  margin: 2% 0%;
 }
