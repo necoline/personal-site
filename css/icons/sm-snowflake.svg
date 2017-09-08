@@ -1,8 +1,11 @@
 
-<svg width="11px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="11px" height="12px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
     <defs></defs>
+    <path d="M10 10 V 120 L 10 120"
+    stroke="none" stroke-width="2"
+    fill="none" id="theMotionPath"/>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-9" transform="translate(-1.000000, 0.000000)">
             <polygon id="Triangle" stroke="#060606" transform="translate(4.000000, 4.000000) rotate(269.000000) translate(-4.000000, -4.000000) " points="4 1 7 7 1 7"></polygon>
@@ -11,11 +14,14 @@
               attributeName="transform"
               attributeType="XML"
               type="rotate"
-              from="0 4 4"
-              to="360 4 4"
-              dur="10s"
+              from="0 6 4"
+              to="360 6 4"
+              dur="4s"
               repeatCount="indefinite"
             />
+            <animateMotion dur="20s" repeatCount="definite">
+              <mpath xlink:href="#theMotionPath"/>
+            </animateMotion>
         </g>
     </g>
 </svg>
