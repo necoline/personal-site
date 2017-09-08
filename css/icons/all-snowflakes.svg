@@ -57,7 +57,7 @@
                   repeatCount="definite" />
                 <animate attributeName="opacity"
                   values="0;1" dur="20s"
-                  repeatCount="indefinite" begin="10.3s"/>
+                  repeatCount="indefinite" begin="6.3s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(6.000000, 119.000000)">
@@ -71,13 +71,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="2s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="2s" from="5 97" to="55 97" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="2s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="2s" from="5 97" to="55 97" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="2s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="2s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="2s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(68.000000, 57.000000)">
@@ -91,13 +97,19 @@
                   to="0 3 4"
                   dur="5s"
                   begin="7.5s"
-                  repeatCount="4"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="7.5s" from="59 47" to="44 47" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="7.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="7.5s" from="59 47" to="44 47" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="7.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="7.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="7.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(35.000000, 47.000000)">
@@ -111,13 +123,19 @@
                   to="0 3 4"
                   dur="2s"
                   begin="7s"
-                  repeatCount="10"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="7s" from="24 31" to="24 31" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="7s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="7s" from="24 31" to="24 31" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="7s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="7s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="7s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(4.000000, 94.000000)">
@@ -131,13 +149,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="9.5s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="9.5s" from="0 76" to="0 105" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="9.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="9.5s" from="0 76" to="0 105" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="9.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="9.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="9.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(93.000000, 47.000000)">
@@ -151,13 +175,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="5.5s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="5.5s" from="83 35" to="83 35" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="5.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="5.5s" from="83 35" to="83 35" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="5.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="5.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="5.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(41.000000, 76.000000)">
@@ -171,13 +201,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="3.5s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="3.5s" from="30 60" to="30 50" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="3.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="3.5s" from="30 60" to="30 50" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="3.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="3.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="3.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(0.000000, 27.000000)">
@@ -191,13 +227,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="8.5s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="8.5s" from="0 20" to="0 20" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="8.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="8.5s" from="0 20" to="0 20" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="8.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="8.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="8.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(75.000000, 0.000000)">
@@ -211,13 +253,19 @@
                   to="0 3 4"
                   dur="10s"
                   begin="1.5s"
-                  repeatCount="2"
+                  repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="1.5s" from="65 0" to="65 0" dur="20s" repeatCount="0" />
-                <animateMotion dur="20s" begin="1.5s" repeatCount="definite">
+                <animateTransform attributeName="transform" type="translate" begin="1.5s" from="65 0" to="65 0" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="1.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;0" dur="1.5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="1.5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(0.000000, 62.000000)">
@@ -238,12 +286,12 @@
                 <animateMotion dur="20s" begin="5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
-                <animate
-                  attributeName="opacity"
-                  values="0;1"
-                  dur="22s"
-                  begin="5s"
-                  repeatCount="indefinite"/>
+                <animate attributeName="opacity"
+                  values="0;0" dur="5s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="5s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(71.000000, 31.000000)">
@@ -265,9 +313,11 @@
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;1" dur="15s"
-                  begin="1s"
-                  repeatCount="indefinite"/>
+                  values="0;0" dur="1s"
+                  repeatCount="definite" />
+                <animate attributeName="opacity"
+                  values="0;1" dur="20s"
+                  repeatCount="indefinite" begin="1s"/>
             </g>
             <g>
             <g id="Group-9" transform="translate(47.000000, 103.000000)">
