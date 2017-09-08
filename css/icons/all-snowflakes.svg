@@ -1,0 +1,274 @@
+
+<svg width="105px" height="720px" viewBox="0 0 115 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <path d="M10 10 V 720 L 10 720"
+    stroke="none" fill="none" id="theMotionPath"/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(0.000000, 1.000000)">
+          <g>
+            <g id="Group-9" transform="translate(28.000000, 0.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(14.746140, 16.850072) rotate(269.000000) translate(-14.746140, -16.850072) " points="14.7461399 3.14039433 31.6692168 30.5597492 -2.17693701 30.5597492"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(29.062431, 16.688374) rotate(91.000000) translate(-29.062431, -16.688374) " points="29.0624313 2.97869669 45.9855082 30.3980515 12.1393544 30.3980515"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="20s"
+                  begin="10.3s"
+                  repeatCount="1"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="10.3s" from="25 10" to="25 10" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="10.3s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(68.000000, 76.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(12.419355, 13.500000) rotate(269.000000) translate(-12.419355, -13.500000) " points="12.4193548 2.25 24.8387097 24.75 0 24.75"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(22.580645, 13.500000) rotate(91.000000) translate(-22.580645, -13.500000) " points="22.5806452 2.25 35 24.75 10.1612903 24.75"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="6.3s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="6.3s" from="55 57" to="55 57" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="6.3s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(6.000000, 119.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(12.419355, 13.500000) rotate(269.000000) translate(-12.419355, -13.500000) " points="12.4193548 2.25 24.8387097 24.75 0 24.75"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(22.580645, 13.500000) rotate(91.000000) translate(-22.580645, -13.500000) " points="22.5806452 2.25 35 24.75 10.1612903 24.75"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="2s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="2s" from="5 97" to="55 97" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="2s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(68.000000, 57.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="5s"
+                  begin="7.5s"
+                  repeatCount="4"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="7.5s" from="59 47" to="44 47" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="7.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(35.000000, 47.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="2s"
+                  begin="7s"
+                  repeatCount="10"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="7s" from="24 31" to="24 31" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="7s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(4.000000, 94.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="9.5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="9.5s" from="0 76" to="0 105" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="9.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(93.000000, 47.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="5.5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="5.5s" from="83 35" to="83 35" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="5.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(41.000000, 76.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="3.5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="3.5s" from="30 60" to="30 50" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="3.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(0.000000, 27.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="8.5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="8.5s" from="0 20" to="0 20" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="8.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(75.000000, 0.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="1.5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="1.5s" from="65 0" to="65 0" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="1.5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(0.000000, 62.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(6.147059, 8.000000) rotate(269.000000) translate(-6.147059, -8.000000) " points="6.14705882 2.28571429 13.4117647 13.7142857 -1.11764706 13.7142857"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(12.852941, 8.000000) rotate(91.000000) translate(-12.852941, -8.000000) " points="12.8529412 2.28571429 20.1176471 13.7142857 5.58823529 13.7142857"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="5s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="5s" from="0 45" to="35 45" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" begin="5s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(71.000000, 31.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(6.147059, 8.000000) rotate(269.000000) translate(-6.147059, -8.000000) " points="6.14705882 2.28571429 13.4117647 13.7142857 -1.11764706 13.7142857"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(12.852941, 8.000000) rotate(91.000000) translate(-12.852941, -8.000000) " points="12.8529412 2.28571429 20.1176471 13.7142857 5.58823529 13.7142857"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  begin="1s"
+                  repeatCount="indefinite"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" begin="1s" from="65 30" to="80 65" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="1s" repeatCount="indefinite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+                <animate attributeName="opacity"
+                  values="0;1" dur="22s"
+                  repeatCount="indefinite"/>
+            </g>
+            <g>
+            <g id="Group-9" transform="translate(47.000000, 103.000000)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+                <animateTransform
+                  attributeName="transform"
+                  attributeType="XML"
+                  type="rotate"
+                  from="360 3 4"
+                  to="0 3 4"
+                  dur="10s"
+                  repeatCount="2"
+                />
+              </g>
+                <animateTransform attributeName="transform" type="translate" from="50 95" to="50 95" dur="20s" repeatCount="0" />
+                <animateMotion dur="20s" repeatCount="definite">
+                  <mpath xlink:href="#theMotionPath"/>
+                </animateMotion>
+            </g>
+        </g>
+    </g>
+</svg>

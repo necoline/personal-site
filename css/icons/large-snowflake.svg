@@ -4,8 +4,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <path d="M10 10 V 720 L 10 720"
-    stroke="none" stroke-width="2"
-    fill="none" id="theMotionPath"/>
+    stroke="none" fill="none" id="theMotionPath"/>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-9" transform="translate(0.000000, 1.000000)">
             <polygon id="Triangle" stroke="#060606" transform="translate(13.070442, 15.363301) rotate(269.000000) translate(-13.070442, -15.363301) " points="13.0704422 2.86330071 28.0704422 27.8633007 -1.9295578 27.8633007">
