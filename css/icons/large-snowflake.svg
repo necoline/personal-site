@@ -1,9 +1,9 @@
 
-<svg width="45px" height="45px" viewBox="0 0 42 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="720px" viewBox="0 0 50 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <path d="M10 10 V 120 L 10 120"
+    <path d="M10 10 V 720 L 10 720"
     stroke="none" stroke-width="2"
     fill="none" id="theMotionPath"/>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -18,8 +18,8 @@
               type="rotate"
               from="0 19 17"
               to="360 19 17"
-              dur="13s"
-              repeatCount="indefinite"
+              dur="10s"
+              repeatCount="2"
             />
             <animateMotion dur="20s" repeatCount="definite">
               <mpath xlink:href="#theMotionPath"/>
