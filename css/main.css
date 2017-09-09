@@ -107,6 +107,10 @@ body {
   padding: 5% 15%;
 }
 
+.index-body {
+  padding: 5% 15% 5% 5%;
+}
+
 .title {
   text-align: center;
   font-weight: lighter;
@@ -183,44 +187,6 @@ body {
   background-color: rgba(0, 0, 0, 0.0);
 }
 
-.snowflake-1 {
-  top: 0;
-  position: absolute;
-  padding: 5px 0 0 20px;
-}
-
-.snowflake-2 {
-  top: 0;
-  position: absolute;
-  padding: 30px 0 0 75px;
-}
-
-.snowflake-3 {
-  top: 0;
-  position: absolute;
-  padding: 30px 0 0 115px;
-}
-
-.snowflake-4 {
-  top: 0;
-  position: absolute;
-  padding: 50px 0 0 90px;
-}
-
-.snowflake-5 {
-  top: 0;
-  position: absolute;
-  padding: 6px 0 0 75px;
-}
-
-.snowflake-6 {
-  top: 0;
-  position: absolute;
-  padding: 52px 0 0 60px;
-}
-
-.snowflake-7 {
-  top: 0;
-  position: absolute;
-  padding: 79px 0 0 42px;
+.snowflake {
+  padding-left: 10%;
 }

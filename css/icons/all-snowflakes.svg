@@ -8,15 +8,15 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-12" transform="translate(0.000000, 1.000000)">
           <g>
-            <g id="Group-9" transform="translate(28.000000, -10.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(14.746140, 16.850072) rotate(269.000000) translate(-14.746140, -16.850072) " points="14.7461399 3.14039433 31.6692168 30.5597492 -2.17693701 30.5597492"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(29.062431, 16.688374) rotate(91.000000) translate(-29.062431, -16.688374) " points="29.0624313 2.97869669 45.9855082 30.3980515 12.1393544 30.3980515"></polygon>
+            <g id="Group-9" transform="translate(28, -10)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(14, 16) rotate(269) translate(-14, -16) " points="14 3 31 30 -2 30"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(29, 16) rotate(91) translate(-29, -16) " points="29 2 45 30 12 30"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
                   type="rotate"
-                  from="360 3 4"
-                  to="0 3 4"
+                  from="0 19 17"
+                  to="360 19 17"
                   dur="20s"
                   begin="10.3s"
                   repeatCount="indefinite"
@@ -34,9 +34,9 @@
                   repeatCount="indefinite" begin="10.3s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(68.000000, 76.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(12.419355, 13.500000) rotate(269.000000) translate(-12.419355, -13.500000) " points="12.4193548 2.25 24.8387097 24.75 0 24.75"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(22.580645, 13.500000) rotate(91.000000) translate(-22.580645, -13.500000) " points="22.5806452 2.25 35 24.75 10.1612903 24.75"></polygon>
+            <g id="Group-9" transform="translate(68, 76)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(12, 13) rotate(269) translate(-12, -13) " points="12 2 24 24 0 24"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(22, 13) rotate(91) translate(-22, -13) " points="22 2 35 24 10 24"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -60,9 +60,9 @@
                   repeatCount="indefinite" begin="6.3s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(6.000000, 119.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(12.419355, 13.500000) rotate(269.000000) translate(-12.419355, -13.500000) " points="12.4193548 2.25 24.8387097 24.75 0 24.75"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(22.580645, 13.500000) rotate(91.000000) translate(-22.580645, -13.500000) " points="22.5806452 2.25 35 24.75 10.1612903 24.75"></polygon>
+            <g id="Group-9" transform="translate(6, 119)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(12, 13) rotate(269) translate(-12, -13) " points="12 2 24 24 0 24"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(22, 13) rotate(91) translate(-22, -13) " points="22 2 35 24 10 24"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -86,41 +86,41 @@
                   repeatCount="indefinite" begin="2s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(68.000000, 57.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+            <g id="Group-9" transform="translate(68, 57)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4, 4.5) rotate(269) translate(-4.3, -4.5) " points="4 1 7.6 7.8 1 7.8"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.6, 4.5) rotate(91) translate(-7.6, -4.5) " points="7.6 1 10.9 7.8 4 7.875"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
                   type="rotate"
-                  from="360 3 4"
-                  to="0 3 4"
+                  from="0 3 4"
+                  to="360 3 4"
                   dur="5s"
-                  begin="7.5s"
+                  begin="15.5s"
                   repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="7.5s" from="59 0" to="44 47" dur="20s" repeatCount="indefinite" />
-                <animateMotion dur="20s" begin="7.5s" repeatCount="indefinite">
+                <animateTransform attributeName="transform" type="translate" begin="15.5s" from="59 0" to="44 47" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="15.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;0" dur="7.5s"
+                  values="0;0" dur="15.5s"
                   repeatCount="definite" />
                 <animate attributeName="opacity"
                   values="0;1;1" dur="20s"
-                  repeatCount="indefinite" begin="7.5s"/>
+                  repeatCount="indefinite" begin="15.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(35.000000, 47.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+            <g id="Group-9" transform="translate(35, 47)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4, 4.5) rotate(269) translate(-4.3, -4.5) " points="4 1 7.6 7.8 1 7.8"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.6, 4.5) rotate(91) translate(-7.6, -4.5) " points="7.6 1 10.9 7.8 4 7.875"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
                   type="rotate"
-                  from="360 3 4"
-                  to="0 3 4"
+                  from="0 3 4"
+                  to="360 3 4"
                   dur="2s"
                   begin="7s"
                   repeatCount="indefinite"
@@ -138,9 +138,9 @@
                   repeatCount="indefinite" begin="7s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(4.000000, 94.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+            <g id="Group-9" transform="translate(4, 94)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4, 4.5) rotate(269) translate(-4, -4.5) " points="4 1 7.6 7.8 1 7.8"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.6, 4.5) rotate(91) translate(-7.6, -4.5) " points="7.6 1 10.9 7.8 4 7.8"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -164,9 +164,9 @@
                   repeatCount="indefinite" begin="9.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(93.000000, 47.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+            <g id="Group-9" transform="translate(93, 47)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.3, 4.5) rotate(269) translate(-4.3, -4.5) " points="4.3 1 7.6 7.8 1 7.8"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.6, 4.5) rotate(91) translate(-7.6, -4.5) " points="7.6 1 10.9 7.8 4.3 7.875"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -174,25 +174,25 @@
                   from="360 3 4"
                   to="0 3 4"
                   dur="10s"
-                  begin="5.5s"
+                  begin="13.5s"
                   repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="5.5s" from="83 0" to="83 35" dur="20s" repeatCount="indefinite" />
-                <animateMotion dur="20s" begin="5.5s" repeatCount="indefinite">
+                <animateTransform attributeName="transform" type="translate" begin="13.5s" from="83 0" to="83 35" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="13.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;0" dur="5.5s"
+                  values="0;0" dur="13.5s"
                   repeatCount="definite" />
                 <animate attributeName="opacity"
                   values="0;1;1" dur="20s"
-                  repeatCount="indefinite" begin="5.5s"/>
+                  repeatCount="indefinite" begin="13.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(41.000000, 76.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+            <g id="Group-9" transform="translate(41, 76)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.2, 6) rotate(269) translate(-7.2, -6) " points="7.2 0 12.2 12 2.2 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.7, 6) rotate(91) translate(-11.7, -6) " points="11.7 0 16.7 12 6.7 12"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -200,25 +200,25 @@
                   from="360 3 4"
                   to="0 3 4"
                   dur="10s"
-                  begin="3.5s"
+                  begin="17.5s"
                   repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="3.5s" from="30 0" to="30 50" dur="20s" repeatCount="indefinite" />
-                <animateMotion dur="20s" begin="3.5s" repeatCount="indefinite">
+                <animateTransform attributeName="transform" type="translate" begin="17.5s" from="30 0" to="30 50" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="17.5s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;0" dur="3.5s"
+                  values="0;0" dur="17.5s"
                   repeatCount="definite" />
                 <animate attributeName="opacity"
                   values="0;1;1" dur="20s"
-                  repeatCount="indefinite" begin="3.5s"/>
+                  repeatCount="indefinite" begin="17.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(0.000000, 27.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+            <g id="Group-9" transform="translate(0, 27)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.2, 6) rotate(269) translate(-7.2, -6) " points="7.2 0 12.2 12 2.2 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.7, 6) rotate(91) translate(-11.7, -6) " points="11.7 0 16.7 12 6.7 12"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -242,9 +242,9 @@
                   repeatCount="indefinite" begin="8.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(75.000000, 0.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(4.363636, 4.500000) rotate(269.000000) translate(-4.363636, -4.500000) " points="4.36363636 1.125 7.63636364 7.875 1.09090909 7.875"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(7.636364, 4.500000) rotate(91.000000) translate(-7.636364, -4.500000) " points="7.63636364 1.125 10.9090909 7.875 4.36363636 7.875"></polygon>
+            <g id="Group-9" transform="translate(75, 0)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(4.3, 4.5) rotate(269) translate(-4.3, -4.5) " points="4.3 1 7.6 7.8 1 7.875"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(7.6, 4.5) rotate(91) translate(-7.6, -4.5) " points="7.6 1 10.9 7.8 4.3 7.8"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -268,9 +268,9 @@
                   repeatCount="indefinite" begin="1.5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(0.000000, 62.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(6.147059, 8.000000) rotate(269.000000) translate(-6.147059, -8.000000) " points="6.14705882 2.28571429 13.4117647 13.7142857 -1.11764706 13.7142857"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(12.852941, 8.000000) rotate(91.000000) translate(-12.852941, -8.000000) " points="12.8529412 2.28571429 20.1176471 13.7142857 5.58823529 13.7142857"></polygon>
+            <g id="Group-9" transform="translate(0, 62)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(6, 8) rotate(269) translate(-6.1, -8) " points="6.1 2.2 13.4 13.7 -1.1 13.7"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(12.8, 8) rotate(91) translate(-12.8, -8) " points="12.8 2.2 20.1 13.7 5.5 13.7"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -294,9 +294,9 @@
                   repeatCount="indefinite" begin="5s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(71.000000, 31.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(6.147059, 8.000000) rotate(269.000000) translate(-6.147059, -8.000000) " points="6.14705882 2.28571429 13.4117647 13.7142857 -1.11764706 13.7142857"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(12.852941, 8.000000) rotate(91.000000) translate(-12.852941, -8.000000) " points="12.8529412 2.28571429 20.1176471 13.7142857 5.58823529 13.7142857"></polygon>
+            <g id="Group-9" transform="translate(71, 31)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(6.1, 8) rotate(269) translate(-6.1, -8) " points="6.1 2.2 13.4 13.7 -1.1 13.7"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(12.8, 8) rotate(91) translate(-12.8, -8) " points="12.8 2.2 20.1 13.7 5.5 13.7"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -304,25 +304,25 @@
                   from="360 3 4"
                   to="0 3 4"
                   dur="10s"
-                  begin="1s"
+                  begin="12s"
                   repeatCount="indefinite"
                 />
               </g>
-                <animateTransform attributeName="transform" type="translate" begin="1s" from="65 0" to="80 65" dur="20s" repeatCount="indefinite" />
-                <animateMotion dur="20s" begin="1s" repeatCount="indefinite">
+                <animateTransform attributeName="transform" type="translate" begin="12s" from="65 0" to="80 65" dur="20s" repeatCount="indefinite" />
+                <animateMotion dur="20s" begin="12s" repeatCount="indefinite">
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;0" dur="1s"
+                  values="0;0" dur="12s"
                   repeatCount="definite" />
                 <animate attributeName="opacity"
                   values="0;1;1" dur="20s"
-                  repeatCount="indefinite" begin="1s"/>
+                  repeatCount="indefinite" begin="12s"/>
             </g>
             <g>
-            <g id="Group-9" transform="translate(47.000000, 103.000000)">
-                <polygon id="Triangle" stroke="#060606" transform="translate(7.264706, 6.000000) rotate(269.000000) translate(-7.264706, -6.000000) " points="7.26470588 0 12.2941176 12 2.23529412 12"></polygon>
-                <polygon id="Triangle" stroke="#050404" transform="translate(11.735294, 6.000000) rotate(91.000000) translate(-11.735294, -6.000000) " points="11.7352941 0 16.7647059 12 6.70588235 12"></polygon>
+            <g id="Group-9" transform="translate(47, 103)">
+                <polygon id="Triangle" stroke="#060606" transform="translate(7.2, 6) rotate(269) translate(-7.2, -6) " points="7.2 0 12.2 12 2 12"></polygon>
+                <polygon id="Triangle" stroke="#050404" transform="translate(11.7, 6) rotate(91) translate(-11.7, -6) " points="11.7 0 16.7 12 6.7 12"></polygon>
                 <animateTransform
                   attributeName="transform"
                   attributeType="XML"
@@ -338,7 +338,7 @@
                   <mpath xlink:href="#theMotionPath"/>
                 </animateMotion>
                 <animate attributeName="opacity"
-                  values="0;1;1" dur="15s"
+                  values="0;1;1" dur="20s"
                   repeatCount="indefinite"/>
             </g>
         </g>
