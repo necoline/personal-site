@@ -35,6 +35,11 @@ body {
   width: 40%;
 }
 
+.outline:hover {
+  border: 2px solid #06C1F7;
+  width: 40%;
+}
+
 .two-buttons {
   display: inline;
   width: 250px;
