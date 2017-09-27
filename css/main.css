@@ -2,6 +2,9 @@ body {
   margin: 0;
 }
 
+.orange-text {
+  color: orange;
+}
 /*global*/
 
 .font {
@@ -9,6 +12,16 @@ body {
 }
 
 .a-tag {
+  text-decoration: none;
+}
+
+.blue-text {
+  color: black;
+  text-decoration: underline;
+}
+
+.blue-text:hover {
+  color: #06C1F7;
   text-decoration: none;
 }
 
@@ -28,6 +41,10 @@ body {
 
 .two-buttons-outline {
   border: 2px solid black;
+}
+
+.two-buttons-outline:hover {
+  border: 2px solid #06C1F7;
 }
 
 .outline {
