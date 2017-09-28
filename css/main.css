@@ -125,8 +125,12 @@ body {
   overflow-y: scroll;
 }
 
-.main-body {
+.blog-body {
   padding: 5% 15%;
+}
+
+.project-body {
+  padding: 5% 17% 5% 10%;
 }
 
 .index-body {
@@ -157,6 +161,7 @@ body {
 
 .paragraph {
   margin-top: 0;
+  margin-right: 5%;
 }
 
 /* manifest */
